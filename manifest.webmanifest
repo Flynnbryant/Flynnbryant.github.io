@@ -1,15 +1,15 @@
 {
-  "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "background_color": "red",
+  "description": "Used to access Raflin cart",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
+      "src": "icon/Raflin-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures3",
-  "short_name": "Foxes3",
+  "name": "Raflin Web App",
+  "short_name": "Raflin",
   "start_url": "/index.html"
 }
